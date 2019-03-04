@@ -1,4 +1,2 @@
-im made some changes 1
+im made some changes
 changes made by front end
-
-make more changes
